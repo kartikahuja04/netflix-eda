@@ -16,7 +16,7 @@ This project explores Netflix’s dataset using Python libraries such as **Panda
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/netflix-pandas-numpy-eda.git
+   git clone https://github.com/kartikahuja04/netflix-pandas-numpy-eda.git
 2. Install necessary Python packages:
 
     pip install pandas numpy matplotlib
